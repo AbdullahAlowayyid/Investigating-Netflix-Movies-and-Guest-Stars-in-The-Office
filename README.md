@@ -1,4 +1,4 @@
-# Investigating Netflix Movies and Guest Stars in The Office - Guided Project
+# Investigating Netflix Movies and Guest Stars in The Office
 
 Dive into Netflix Movie Trends and Explore Guest Stars in "The Office"!
 
